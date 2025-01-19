@@ -1,2 +1,2 @@
-![Logo](Cover(1).jpg)
+![Logo](Cover.jpg)
 # :sparkles::sparkles: Sales Management System
