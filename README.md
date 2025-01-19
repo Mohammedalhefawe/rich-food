@@ -1,3 +1,2 @@
-# rich_food
-
-Distribution System
+![Logo](Cover(1).jpg)
+# :sparkles::sparkles: Sales Management System
