@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+    "loginWelcomeKey": "welcome",
+
+  "recommendProgram": "Recommend program",
+  "recommendconfirmation": "Are you sure you want to recommend this program?"
+}
